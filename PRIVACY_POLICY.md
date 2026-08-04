@@ -1,10 +1,11 @@
-# Privacy Policy for JHARKHAND GK IN HINDI
+# PRIVACY POLICY
+
+# JHARKHAND GK IN HINDI
 
 **Effective Date:** August 4, 2026  
-**Last Updated:** August 4, 2026  
 **Application Name:** JHARKHAND GK IN HINDI  
 **Package Name:** `com.amanvikas.jharquiz`  
-**Developer:** Aman Kumar ([amankumard721](https://github.com/amankumard721))  
+**Developer / Publisher:** Aman Kumar ([amankumard721](https://github.com/amankumard721))  
 
 ---
 
@@ -12,27 +13,24 @@
 
 Welcome to **JHARKHAND GK IN HINDI** ("we", "our", or "us"). We are committed to protecting your privacy while providing an offline educational quiz and practice platform for competitive examinations such as JPSC Prelims, JSSC CGL, and other Jharkhand state exams.
 
-This Privacy Policy explains how information is handled when you download, install, and use the **JHARKHAND GK IN HINDI** mobile application (the "App").
-
 ---
 
 ## 2. Information Collection and Use
 
-### **Zero Personal Data Collection**
+### Zero Personal Data Collection
 The **JHARKHAND GK IN HINDI** app is designed to function **100% Offline**. 
 - We **do not collect, store, or transmit** any personally identifiable information (PII) such as your name, email address, phone number, location, contacts, or device identifiers to any external server.
 - No user account creation or registration is required to use this App.
 
-### **Local Storage (On-Device Storage)**
+### Local Storage (On-Device Storage)
 - Your quiz statistics, progress tracking, test scores, and bookmarked questions are stored locally on your device using an encrypted local database (**Hive DB**).
 - This data remains strictly on your device and is never uploaded to any remote server or shared with any third party.
-- Clearing the App's data or uninstalling the App will permanently remove your local statistics and bookmarks.
 
 ---
 
 ## 3. Camera, Microphone, and Device Permissions
 
-The App **does not request or require** access to sensitive device permissions, including but not limited to:
+The App **does not request or require** access to sensitive device permissions, including:
 - Camera access
 - Microphone / Audio recording
 - Precise or approximate GPS Location
@@ -44,8 +42,6 @@ The App **does not request or require** access to sensitive device permissions, 
 ## 4. Third-Party Services and Analytics
 
 The App does not integrate any third-party tracking software, analytics tools, or advertising SDKs that gather or sell personal data. 
-
-If any third-party links or embedded educational content are accessed outside the app in future updates, those external services operate under their respective privacy policies.
 
 ---
 
@@ -65,7 +61,7 @@ We value your trust in using our App. Since no personal data leaves your device,
 
 ## 7. Changes to This Privacy Policy
 
-We may update our Privacy Policy from time to time to reflect changes in our App features or legal requirements. Any updates will be posted on this page with an updated "Effective Date". You are advised to review this page periodically for any changes.
+We may update our Privacy Policy from time to time to reflect changes in our App features or legal requirements. Any updates will be posted on this page with an updated "Effective Date".
 
 ---
 
